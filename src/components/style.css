@@ -1,0 +1,99 @@
+.ovel {
+  border-radius: 20px;
+}
+
+.bg-grey {
+  background-color: #f2f2f2;
+  /* color:rgb(17, 17, 61) ; */
+}
+
+.bg-lemon {
+  background-color: lemonchiffon;
+}
+
+.bg-trans {
+  background-color: transparent;
+}
+
+.white {
+  color: white;
+}
+
+.dateGreen {
+  border-radius: 5px;
+  background-color: rgb(65, 250, 148);
+}
+
+.thinBrown {
+  color: transparent;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: rgb(247, 134, 90);
+}
+
+.thinIcon {
+  color: red;
+  -webkit-text-stroke-color: white;
+}
+
+.thinGreen {
+  color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: green;
+}
+
+.seat {
+  background-color: white;
+  width: 24px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  font-size: small;
+  padding: 0.25rem 0.25rem 0rem 0.25rem;
+  margin: 0.25rem;
+}
+
+.noSeat {
+  background-color: #cccccc;
+  color: white;
+  width: 24px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  font-size: small;
+  padding: 0.25rem 0.25rem 0rem 0.25rem;
+  margin: 0.25rem;
+}
+
+.seat2 {
+  width: 25px;
+  font-size: small;
+  margin-right: 120px;
+}
+
+.rowname {
+  width: 85px;
+  text-align: end;
+  padding: 2px;
+}
+
+.selectedSeat {
+  background-color: #2dc492;
+  color: white;
+}
+
+.bookSmile {
+  top: 38%;
+  left: 18%;
+  font-size: 300%;
+  font-weight: 600;
+}
+
+.smileInfo {
+  color: white;
+  text-align: center;
+  font-size: 35px;
+  font-family: "Handlee", cursive;
+  padding: 40px;
+}
+
+u {
+  text-decoration: underline solid #2dc492 4px;
+}
